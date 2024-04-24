@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+langchain-experimental
+langgraph
+langchain-cli
+langsmith
+faiss-cpu
+asyncio
+aiofiles
+beautifulsoup4
+sentence-transformers
